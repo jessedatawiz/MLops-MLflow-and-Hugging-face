@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b3a64da6faae48b6a2389d52ebcb3740/artifacts
+end_time: 1708722871268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3a64da6faae48b6a2389d52ebcb3740
+run_name: sedate-squid-632
+run_uuid: b3a64da6faae48b6a2389d52ebcb3740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708722871225
+status: 3
+tags: []
+user_id: codespace

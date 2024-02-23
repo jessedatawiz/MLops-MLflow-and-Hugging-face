@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b365547364eb4ff4a48a1220cae16507/artifacts
+end_time: 1708722829063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b365547364eb4ff4a48a1220cae16507
+run_name: bald-wolf-782
+run_uuid: b365547364eb4ff4a48a1220cae16507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708722829046
+status: 3
+tags: []
+user_id: codespace

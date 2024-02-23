@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/mlruns/159758071321448029/b84789c895f744d39d6af62cdc8dc061/artifacts
+end_time: 1708723652211
+entry_point_name: ''
+experiment_id: '159758071321448029'
+lifecycle_stage: active
+run_id: b84789c895f744d39d6af62cdc8dc061
+run_name: polite-sloth-224
+run_uuid: b84789c895f744d39d6af62cdc8dc061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723652142
+status: 3
+tags: []
+user_id: codespace

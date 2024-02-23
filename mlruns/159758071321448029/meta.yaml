@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/MLops-MLflow-and-Hugging-face/mlruns/159758071321448029
+creation_time: 1708723569145
+experiment_id: '159758071321448029'
+last_update_time: 1708723569145
+lifecycle_stage: active
+name: produce-metrics

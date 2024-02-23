@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ec0a22c2bea54e27bde52ea308c60dd0/artifacts
+end_time: 1708721936727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec0a22c2bea54e27bde52ea308c60dd0
+run_name: unruly-owl-150
+run_uuid: ec0a22c2bea54e27bde52ea308c60dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708721936713
+status: 3
+tags: []
+user_id: codespace
