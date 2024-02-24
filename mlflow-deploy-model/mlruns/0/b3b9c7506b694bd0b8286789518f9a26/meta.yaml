@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b3b9c7506b694bd0b8286789518f9a26/artifacts
+end_time: 1708797728584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b9c7506b694bd0b8286789518f9a26
+run_name: secretive-hen-920
+run_uuid: b3b9c7506b694bd0b8286789518f9a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708797710636
+status: 3
+tags: []
+user_id: codespace
