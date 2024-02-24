@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e1c1a1f3769f4a08ae9b719a8281465e/artifacts
+end_time: 1708800712353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1c1a1f3769f4a08ae9b719a8281465e
+run_name: intelligent-mule-103
+run_uuid: e1c1a1f3769f4a08ae9b719a8281465e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708800709141
+status: 3
+tags: []
+user_id: codespace

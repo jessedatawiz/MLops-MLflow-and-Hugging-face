@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/mlflow-and-pytorch/mlruns/0/ff0cbc76a5334912b0e60a6b7289bf2f/artifacts
+end_time: 1708800301410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0cbc76a5334912b0e60a6b7289bf2f
+run_name: casual-goat-64
+run_uuid: ff0cbc76a5334912b0e60a6b7289bf2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708800291763
+status: 3
+tags: []
+user_id: codespace
