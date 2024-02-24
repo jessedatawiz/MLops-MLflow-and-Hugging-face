@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/84ed2f29289c4c99994ff13052cba473/artifacts
+end_time: 1708809542296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84ed2f29289c4c99994ff13052cba473
+run_name: classy-fowl-157
+run_uuid: 84ed2f29289c4c99994ff13052cba473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809540130
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/fcc045ff6e8c4f79bb11150c6779f4d1/artifacts
+end_time: 1708810249474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcc045ff6e8c4f79bb11150c6779f4d1
+run_name: marvelous-sheep-355
+run_uuid: fcc045ff6e8c4f79bb11150c6779f4d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810247091
+status: 4
+tags: []
+user_id: codespace

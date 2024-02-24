@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/24c307041c8f4857872ce033755bdac0/artifacts
+end_time: 1708810267431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24c307041c8f4857872ce033755bdac0
+run_name: bedecked-ox-296
+run_uuid: 24c307041c8f4857872ce033755bdac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810265210
+status: 4
+tags: []
+user_id: codespace

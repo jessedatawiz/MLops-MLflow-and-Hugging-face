@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/23042e95fc714c07878b114e53586925/artifacts
+end_time: 1708810245833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23042e95fc714c07878b114e53586925
+run_name: secretive-flea-165
+run_uuid: 23042e95fc714c07878b114e53586925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810243599
+status: 4
+tags: []
+user_id: codespace

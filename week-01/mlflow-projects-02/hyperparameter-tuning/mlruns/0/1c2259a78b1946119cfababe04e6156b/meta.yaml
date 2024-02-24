@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/1c2259a78b1946119cfababe04e6156b/artifacts
+end_time: 1708809584508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c2259a78b1946119cfababe04e6156b
+run_name: enthused-rat-220
+run_uuid: 1c2259a78b1946119cfababe04e6156b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809582290
+status: 4
+tags: []
+user_id: codespace

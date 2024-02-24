@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/d1585121e00f45bca70713f18c9a1709/artifacts
+end_time: 1708809439084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1585121e00f45bca70713f18c9a1709
+run_name: rumbling-perch-884
+run_uuid: d1585121e00f45bca70713f18c9a1709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809434610
+status: 4
+tags: []
+user_id: codespace

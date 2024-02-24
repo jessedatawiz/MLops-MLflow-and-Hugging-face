@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/9bb48556cc434bbba562baeeb9c8c969/artifacts
+end_time: 1708809446672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bb48556cc434bbba562baeeb9c8c969
+run_name: delicate-moth-421
+run_uuid: 9bb48556cc434bbba562baeeb9c8c969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809444138
+status: 4
+tags: []
+user_id: codespace

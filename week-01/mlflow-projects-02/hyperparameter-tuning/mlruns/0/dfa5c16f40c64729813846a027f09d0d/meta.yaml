@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/dfa5c16f40c64729813846a027f09d0d/artifacts
+end_time: 1708809429270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa5c16f40c64729813846a027f09d0d
+run_name: unleashed-shoat-588
+run_uuid: dfa5c16f40c64729813846a027f09d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809426718
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/329826bcc96b4b868991fa23740edd0f/artifacts
+end_time: 1708809450131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 329826bcc96b4b868991fa23740edd0f
+run_name: clean-donkey-903
+run_uuid: 329826bcc96b4b868991fa23740edd0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809447980
+status: 4
+tags: []
+user_id: codespace

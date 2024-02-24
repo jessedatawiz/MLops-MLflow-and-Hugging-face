@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/ea49cbb714f04594ac7c8154b93efbd5/artifacts
+end_time: 1708810263753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea49cbb714f04594ac7c8154b93efbd5
+run_name: incongruous-ox-87
+run_uuid: ea49cbb714f04594ac7c8154b93efbd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810261650
+status: 4
+tags: []
+user_id: codespace

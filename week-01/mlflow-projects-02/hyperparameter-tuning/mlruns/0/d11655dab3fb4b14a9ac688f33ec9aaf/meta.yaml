@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/d11655dab3fb4b14a9ac688f33ec9aaf/artifacts
+end_time: 1708810242342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d11655dab3fb4b14a9ac688f33ec9aaf
+run_name: skittish-bee-106
+run_uuid: d11655dab3fb4b14a9ac688f33ec9aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810240022
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/6037ba99666140b3817dee684a458837/artifacts
+end_time: 1708809442781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6037ba99666140b3817dee684a458837
+run_name: loud-jay-872
+run_uuid: 6037ba99666140b3817dee684a458837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809440417
+status: 4
+tags: []
+user_id: codespace
