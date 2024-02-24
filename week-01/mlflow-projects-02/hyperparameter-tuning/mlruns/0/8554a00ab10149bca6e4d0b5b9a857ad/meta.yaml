@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/8554a00ab10149bca6e4d0b5b9a857ad/artifacts
+end_time: 1708810776609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8554a00ab10149bca6e4d0b5b9a857ad
+run_name: carefree-bug-72
+run_uuid: 8554a00ab10149bca6e4d0b5b9a857ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810774494
+status: 4
+tags: []
+user_id: codespace

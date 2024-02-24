@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/86de51a858b849db8c30990a510fe037/artifacts
+end_time: 1708810988767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86de51a858b849db8c30990a510fe037
+run_name: melodic-bird-144
+run_uuid: 86de51a858b849db8c30990a510fe037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810920401
+status: 3
+tags: []
+user_id: codespace

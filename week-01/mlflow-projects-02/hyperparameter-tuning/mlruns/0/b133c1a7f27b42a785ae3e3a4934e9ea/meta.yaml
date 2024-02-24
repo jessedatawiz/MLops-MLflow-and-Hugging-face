@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/b133c1a7f27b42a785ae3e3a4934e9ea/artifacts
+end_time: 1708810991528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b133c1a7f27b42a785ae3e3a4934e9ea
+run_name: wistful-swan-910
+run_uuid: b133c1a7f27b42a785ae3e3a4934e9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810990102
+status: 4
+tags: []
+user_id: codespace

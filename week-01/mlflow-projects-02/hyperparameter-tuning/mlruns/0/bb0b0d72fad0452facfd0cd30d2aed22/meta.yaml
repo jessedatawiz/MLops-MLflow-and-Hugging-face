@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/mlflow-projects-02/hyperparameter-tuning/mlruns/0/bb0b0d72fad0452facfd0cd30d2aed22/artifacts
+end_time: 1708810846098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb0b0d72fad0452facfd0cd30d2aed22
+run_name: upset-cod-89
+run_uuid: bb0b0d72fad0452facfd0cd30d2aed22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708810777957
+status: 3
+tags: []
+user_id: codespace
