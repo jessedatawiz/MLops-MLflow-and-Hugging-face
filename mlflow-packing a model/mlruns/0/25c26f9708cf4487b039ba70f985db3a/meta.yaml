@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/25c26f9708cf4487b039ba70f985db3a/artifacts
+end_time: 1708784037824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25c26f9708cf4487b039ba70f985db3a
+run_name: redolent-goose-176
+run_uuid: 25c26f9708cf4487b039ba70f985db3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708783964994
+status: 4
+tags: []
+user_id: codespace

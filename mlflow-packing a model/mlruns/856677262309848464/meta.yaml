@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/856677262309848464
+creation_time: 1708784155395
+experiment_id: '856677262309848464'
+last_update_time: 1708784155395
+lifecycle_stage: active
+name: Linear Regression Example

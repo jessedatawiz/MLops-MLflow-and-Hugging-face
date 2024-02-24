@@ -1,0 +1,9 @@
+name: Linear Regression Example
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      data_file: string
+    command: "python linear-regression.py {data_file}"

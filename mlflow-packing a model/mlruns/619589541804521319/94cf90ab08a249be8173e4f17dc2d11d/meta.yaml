@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/mlflow-packing%20a%20model/mlruns/619589541804521319/94cf90ab08a249be8173e4f17dc2d11d/artifacts
+end_time: 1708785336837
+entry_point_name: ''
+experiment_id: '619589541804521319'
+lifecycle_stage: active
+run_id: 94cf90ab08a249be8173e4f17dc2d11d
+run_name: bouncy-cod-5
+run_uuid: 94cf90ab08a249be8173e4f17dc2d11d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708785333434
+status: 3
+tags: []
+user_id: codespace

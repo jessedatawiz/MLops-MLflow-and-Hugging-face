@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/mlflow-packing%20a%20model/mlruns/619589541804521319/ef5503823b154493ad64afc8aa494df0/artifacts
+end_time: 1708785211705
+entry_point_name: ''
+experiment_id: '619589541804521319'
+lifecycle_stage: active
+run_id: ef5503823b154493ad64afc8aa494df0
+run_name: crawling-sheep-606
+run_uuid: ef5503823b154493ad64afc8aa494df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708785208610
+status: 3
+tags: []
+user_id: codespace

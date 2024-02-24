@@ -1,0 +1,11 @@
+name: mlflow-linear-regression
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pip
+  - pip:
+      - mlflow
