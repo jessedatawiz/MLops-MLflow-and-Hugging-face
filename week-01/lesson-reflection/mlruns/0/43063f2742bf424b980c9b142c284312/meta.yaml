@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/lesson-reflection/mlruns/0/43063f2742bf424b980c9b142c284312/artifacts
+end_time: 1709596025689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43063f2742bf424b980c9b142c284312
+run_name: stylish-lark-638
+run_uuid: 43063f2742bf424b980c9b142c284312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709596016691
+status: 4
+tags: []
+user_id: codespace

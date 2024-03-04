@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/lesson-reflection/mlruns/0/5118bc6e85bd4c38904a20f0d73ab0ac/artifacts
+end_time: 1709595771061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5118bc6e85bd4c38904a20f0d73ab0ac
+run_name: exultant-gull-260
+run_uuid: 5118bc6e85bd4c38904a20f0d73ab0ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709595724623
+status: 3
+tags: []
+user_id: codespace

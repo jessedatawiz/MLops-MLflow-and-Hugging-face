@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/lesson-reflection/mlruns/0/7a30b7af3848460ca921662c4d98894d/artifacts
+end_time: 1709595626767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a30b7af3848460ca921662c4d98894d
+run_name: RF_Iris_Model
+run_uuid: 7a30b7af3848460ca921662c4d98894d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709595621248
+status: 3
+tags: []
+user_id: codespace

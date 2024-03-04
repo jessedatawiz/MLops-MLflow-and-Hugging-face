@@ -1,0 +1,9 @@
+name: Iris RandomForest Model
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      model_type: string
+    command: "python train.py --model_type {model_type}"

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/lesson-reflection/mlruns/0/dc5ced158f66496aaa5984f5feab8116/artifacts
+end_time: 1709595838127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc5ced158f66496aaa5984f5feab8116
+run_name: overjoyed-shad-407
+run_uuid: dc5ced158f66496aaa5984f5feab8116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709595835087
+status: 4
+tags: []
+user_id: codespace

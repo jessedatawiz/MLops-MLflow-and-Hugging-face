@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-MLflow-and-Hugging-face/week-01/lesson-reflection/mlruns/0/6dca3cc6276d404eb356c791114419e5/artifacts
+end_time: 1709596186426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dca3cc6276d404eb356c791114419e5
+run_name: mercurial-chimp-467
+run_uuid: 6dca3cc6276d404eb356c791114419e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709596178454
+status: 3
+tags: []
+user_id: codespace
